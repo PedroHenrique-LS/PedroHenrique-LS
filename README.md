@@ -6,7 +6,7 @@
 
 - 🔭 De olho no futuro! 👀
 
-- 👨‍💻 Estudando desenvolvimento frente e verso e verso.
+- 👨‍💻 Estudando desenvolvimento Front-End e Back-end.
 
 - ⚡ Disciplina, esforço e coregem vencem o talento e o medo. 🧑🏻‍🚀
 
