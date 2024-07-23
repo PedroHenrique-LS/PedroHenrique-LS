@@ -7,9 +7,10 @@
 <div align="left"  >  
   <img height="200" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"  width="250"  align="right"  alt="Formando img"/>
    
-  👩🏻‍💻 Junior Back-end Developer <br> 
-  🎓 Bacharelando em Sistemas de informação  <br> 
-  🎲 Gosto de esportes, musica boa e uma boa conversa <br> 
+  👩🏻‍💻 Junior Back-end Developer <br>
+  🎓 Bacharelando em Sistemas de Informação <br>
+  🎲 Gosto de usar a tecnologia para tornar a vida e os negócios mais fáceis, simples e organizados. <br>
+  😁 No meu tempo livre, gosto de praticar esportes, ouvir música boa e ter boas conversas. <br>
  
  </div>
 
