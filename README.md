@@ -9,7 +9,7 @@
    
   👩🏻‍💻 Junior Back-end Developer <br>
   🎓 Bacharelando em Sistemas de Informação <br>
-  🎲 Gosto de usar a tecnologia para tornar a vida e os negócios mais fáceis, simples e organizados. <br>
+  🎲 Gosto de usar a tecnologia para tornar a vida e os negócios mais simples e organizados. <br>
   😁 No meu tempo livre, gosto de praticar esportes, ouvir música boa e ter boas conversas. <br>
  
  </div>
